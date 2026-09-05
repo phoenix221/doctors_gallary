@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.doctors__item{
+    margin: 10px 0;
+}
+.doctors__item .card{
+    height: 610px;
+}
+div.small.text-muted{
+    display: none;
+}
+
